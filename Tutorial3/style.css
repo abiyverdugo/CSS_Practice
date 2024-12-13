@@ -1,0 +1,17 @@
+.comment {
+    background: red;
+}
+
+#post {
+    background: black;
+    color: white;
+}
+
+.comment2 {
+    background: blue;
+    color: violet;
+}
+
+div {
+    color: honeydew;
+}

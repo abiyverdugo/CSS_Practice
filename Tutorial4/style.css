@@ -1,0 +1,62 @@
+div{
+    background: red;
+    width: 500px;
+    height: 500px;
+}
+
+<!--
+
+h1{
+    font-size: 1.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background: gold;
+}
+
+h1{
+    color: maroon;
+}
+
+
+body{
+    background: rgba(255, 0, 0, 0.5); 
+}
+
+h1{
+    color:rgba(0, 0, 255, 0.5);
+}
+
+
+
+body{
+    background: hsla(120, 100%, 50%, 0.5);
+}
+
+h1{
+    color: hsla(240, 100%, 50%, 0.5);
+}
+
+
+
+body{
+    background: #ffffff;
+}
+
+h1{ 
+    color: #000000;
+}
+
+-->
