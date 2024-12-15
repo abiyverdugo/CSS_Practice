@@ -1,0 +1,45 @@
+.container{
+    height: 100px;
+    width: 100px;
+    background-color: rebeccapurple;
+    /* margin-top: 10px; */
+    display: inline-block;
+}
+
+#one{
+    visibility: hidden;
+}
+
+#two{
+    visibility: visible;
+}
+
+h1{
+    text-align: center;
+}
+
+
+/* p{
+    background: rebeccapurple;
+    display: inline;
+} */
+
+/* span{
+    background: red;
+}
+
+.inline{
+    display: inline;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.inline-block{
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+} */
+
+/* h1{
+    display: none;
+} */

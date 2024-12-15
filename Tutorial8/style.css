@@ -1,0 +1,27 @@
+.button{
+    background: green;
+    width: 100px;
+    height: 50px;
+    transition: all 0.5s ease-in-out;
+}
+
+.button:hover{
+    background-color: red;
+    width: 200px;
+}
+
+.button:active{
+    background-color: blue;
+}
+
+.input:focus{
+    border: 2px solid black;
+}
+
+.pass:focus{
+    border: 2px solid green;
+}
+
+input:checked{
+    scale: 1.5;
+}
